@@ -1,2 +1,0 @@
-# dynamisch-cv
-dynamisch cv
